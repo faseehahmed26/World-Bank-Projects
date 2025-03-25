@@ -62,4 +62,29 @@ The optimized XGBoost model achieved:
 - **Accuracy**: 94.6%
 - **RMSE**: 0.233
 
-## 📁 Repository Structure
+
+## 💻 Setup and Installation
+
+```bash
+# Clone this repository
+git clone https://github.com/faseehahmed26/World-Bank-Projects.git
+
+# Navigate to the project directory
+cd World-Bank-Projects
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the notebooks
+jupyter notebook
+🔮 Future Work
+
+Implement more sophisticated handling of missing data
+Explore deep learning approaches for improved accuracy
+Develop interactive visualization dashboards
+Incorporate additional external datasets for enhanced predictions
+
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
